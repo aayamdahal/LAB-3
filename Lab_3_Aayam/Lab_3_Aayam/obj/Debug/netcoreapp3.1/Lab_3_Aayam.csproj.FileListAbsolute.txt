@@ -1,0 +1,7 @@
+C:\Users\Aayam\source\repos\Lab_3_Aayam\Lab_3_Aayam\obj\Debug\netcoreapp3.1\Lab_3_Aayam.csprojAssemblyReference.cache
+C:\Users\Aayam\source\repos\Lab_3_Aayam\Lab_3_Aayam\obj\Debug\netcoreapp3.1\Lab_3_Aayam.AssemblyInfoInputs.cache
+C:\Users\Aayam\source\repos\Lab_3_Aayam\Lab_3_Aayam\obj\Debug\netcoreapp3.1\Lab_3_Aayam.AssemblyInfo.cs
+C:\Users\Aayam\source\repos\Lab_3_Aayam\Lab_3_Aayam\obj\Debug\netcoreapp3.1\Lab_3_Aayam.csproj.CoreCompileInputs.cache
+C:\Users\Aayam\source\repos\Lab_3_Aayam\Lab_3_Aayam\obj\Debug\netcoreapp3.1\Lab_3_Aayam.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aayam\source\repos\Lab_3_Aayam\Lab_3_Aayam\obj\Debug\netcoreapp3.1\Lab_3_Aayam.RazorAssemblyInfo.cache
+C:\Users\Aayam\source\repos\Lab_3_Aayam\Lab_3_Aayam\obj\Debug\netcoreapp3.1\Lab_3_Aayam.RazorAssemblyInfo.cs
